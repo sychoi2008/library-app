@@ -30,7 +30,7 @@ spring:
     # 스프링이 연결할 데이터베이스 주소
     url: "jdbc:mysql://localhost/library" #자바 데이터베이스 커넥터 프로그램을 사용할 건데, 종류는 mysql이고 db는 로컬에 있고 db이름은 library야)
     username: "root"
-    password: "wssh0201@"
+    password: "Abcd1234!"
     # 데이터 베이스에 접근할 때 사용하는 프로그램
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
